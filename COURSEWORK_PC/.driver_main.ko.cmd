@@ -1,0 +1,1 @@
+cmd_/home/antag0nist/COURSEWORK_PC/driver_main.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/antag0nist/COURSEWORK_PC/driver_main.ko /home/antag0nist/COURSEWORK_PC/driver_main.o /home/antag0nist/COURSEWORK_PC/driver_main.mod.o;  true

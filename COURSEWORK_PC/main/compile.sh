@@ -1,0 +1,1 @@
+g++ -std=c++11 move_file.cpp command.cpp 
